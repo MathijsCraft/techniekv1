@@ -32,31 +32,31 @@ const data = {
   navMain: [
     {
       title: "Start",
-      url: "#",
+      url: "/dashboard/",
       icon: House,
     },
     {
       title: "Berichten",
-      url: "#",
+      url: "/dashboard/berichten/",
       icon: MessagesSquare,
     },
     {
       title: "Evenementen",
-      url: "#",
+      url: "/dashboard/evenementen/",
       icon: CalendarFold,
     },
     {
       title: "Inventaris",
-      url: "#",
+      url: "/dashboard/inventaris/",
       icon: Package,
       items: [
         {
           title: "Licht",
-          url: "#",
+          url: "/dashboard/inventaris/licht",
         },
         {
           title: "Geluid",
-          url: "#",
+          url: "/dashboard/inventaris/geluid",
         },
       ],
     },
