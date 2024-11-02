@@ -62,16 +62,16 @@ const data = {
     },
     {
       title: "Data",
-      url: "#",
+      url: "/dashboard/data/",
       icon: Sheet,
       items: [
         {
           title: "Licht - DMX Plan",
-          url: "#",
+          url: "/dashboard/data/licht/dmx-plan",
         },
         {
           title: "Geluid - Prik Plan",
-          url: "#",
+          url: "/dashboard/data/geluid/prik-plan",
         },
       ],
     },
